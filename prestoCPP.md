@@ -16,5 +16,5 @@ Supported by the following editions: watsonx.data Developer edition, watsonx.dat
 Click Provision.
 
 Content curated from:
-https://www.ibm.com/docs/en/watsonx/watsonxdata/2.0.x
-https://www.ibm.com/docs/en/watsonx/watsonxdata/2.0.x?topic=components-provisioning-presto-c-engine
+- https://www.ibm.com/docs/en/watsonx/watsonxdata/2.0.x
+- https://www.ibm.com/docs/en/watsonx/watsonxdata/2.0.x?topic=components-provisioning-presto-c-engine
